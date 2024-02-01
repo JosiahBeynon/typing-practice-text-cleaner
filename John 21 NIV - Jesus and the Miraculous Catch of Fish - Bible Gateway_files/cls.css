@@ -1,0 +1,28 @@
+#biblegateway_btf_leaderboard {
+		height: 280px;
+}
+#biblegateway_btf_sponsored {
+		height: 280px;
+}
+#biblegateway_siderail_left {
+		height: 100px;
+}
+#biblegateway_siderail_right {
+		height: 280px;
+}
+@media only screen and (min-device-width: 768px) {
+	#biblegateway_btf_leaderboard {
+		height: 280px;
+	}
+	#biblegateway_btf_sponsored {
+		height: 280px;
+	}
+	#biblegateway_siderail_right {
+		height: 280px;
+	}
+}
+@media only screen and (min-device-width: 1025px) {
+	#biblegateway_siderail_left {
+		height: 600px;
+	}
+}

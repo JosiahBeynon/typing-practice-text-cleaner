@@ -1,0 +1,6 @@
+var scriptTag = document.createElement("script");
+scriptTag.src = "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js";
+scriptTag.type = "text/javascript";
+scriptTag.charset = "UTF-8";
+scriptTag.setAttribute("data-domain-script", "909deca4-d1e2-4cf4-aa76-9bb10c5f0b7d");
+document.head.appendChild(scriptTag);
